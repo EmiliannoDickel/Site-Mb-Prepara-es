@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "backend-mb",
+            "group": "desenvolvimento",
+            "database": "mb-preparacoes",
+            "username": "Emilianno",
+            "password": "dilin1388"
+        }
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
